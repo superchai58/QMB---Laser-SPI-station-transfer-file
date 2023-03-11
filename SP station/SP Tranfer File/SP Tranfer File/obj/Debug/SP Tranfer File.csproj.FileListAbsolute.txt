@@ -1,0 +1,30 @@
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe.config
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.pdb
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Form1.resources
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Properties.Resources.resources
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.csproj.GenerateResource.Cache
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.exe
+c:\users\t2050397\documents\visual studio 2015\Projects\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe.config
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.exe
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Form1.resources
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Properties.Resources.resources
+D:\CHAI\Program\New Develop\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.csproj.GenerateResource.Cache
+\\10.97.2.95\d$\SMT\QMB\QMB源码\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe.config
+\\10.97.2.95\d$\SMT\QMB\QMB源码\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.exe
+\\10.97.2.95\d$\SMT\QMB\QMB源码\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe.config
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Form1.resources
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP_Tranfer_File.Properties.Resources.resources
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.csproj.GenerateResource.Cache
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.exe
+D:\CHAI\Program\New Develop\SP Transfer file-F4\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.pdb
+D:\CHAI\Program\New Develop\Laser & SPI station transfer file\SP station\SP Tranfer File\SP Tranfer File\bin\Debug\SP Tranfer File.exe.config
+D:\CHAI\Program\New Develop\Laser & SPI station transfer file\SP station\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.exe
+D:\CHAI\Program\New Develop\Laser & SPI station transfer file\SP station\SP Tranfer File\SP Tranfer File\obj\Debug\SP Tranfer File.pdb
