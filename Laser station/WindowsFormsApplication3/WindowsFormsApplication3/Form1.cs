@@ -148,7 +148,7 @@ namespace WindowsFormsApplication3
                         return;
                     }
                     //--Get Result file (Begin)--
-
+                    transLogEQ();
                     s = 10;
                     //m += 1;
                 }
@@ -241,38 +241,43 @@ namespace WindowsFormsApplication3
                               , s.ToString().PadLeft(2, '0'));
         }
 
-        //public void SendRequest_Timer_Tick(object sender, EventArgs e)   //0001
-        //{
-        //    //counter--;
-        //    string LcoalPath = string.Empty;
-        //    string MachinePath = string.Empty;
-        //    LcoalPath = "D:\\SHOPFLOOR\\Request";
-        //    //MachinePath = "\\" + ip + "\\SHOPFLOOR\\Request";
-        //    MachinePath = "D:\\SHOPFLOOR\\Request2nd";
-        //    if (!File.Exists(MachinePath + "\\Request.txt"))
-        //        {
-        //            File.Move(LcoalPath + "\\Request.txt", MachinePath + "\\Request.txt");
-        //        }
-        //    //textBox2.Text = counter.ToString();
-        //}
+        public void transLogEQ()
+        {
+            string LcoalPath = string.Empty;
+            string MachinePath = string.Empty;
+            LcoalPath = string.Empty;
+            MachinePath = string.Empty;
+            LcoalPath = "D:\\WST\\LC800\\ErrLog\\2023";
+            MachinePath = "\\\\" + ip + "\\WST\\LC800\\ErrLog\\2023";
+            try
+            {
+                //--Check directory (Begin)--
+                if (!Directory.Exists(LcoalPath))
+                {
+                    Directory.CreateDirectory(LcoalPath);
+                }
+                if (!Directory.Exists(MachinePath))
+                {
+                    Directory.CreateDirectory(MachinePath);
+                }
+                //--Check directory (End)--
 
-        //public void GetResult_Timer_Tick(object sender, EventArgs e)   //0001
-        //{
-        //    //counter--;
-        //    string LcoalPath = string.Empty;
-        //    string MachinePath = string.Empty;
-        //    LcoalPath = "D:\\SHOPFLOOR\\Result";
-        //    //MachinePath = "\\" + ip + "\\SHOPFLOOR\\";
-        //    MachinePath = "D:\\SHOPFLOOR\\Result2nd";
-        //    foreach (string file in Directory.EnumerateFiles(MachinePath))
-        //    {
-        //        string destFile = Path.Combine(LcoalPath, Path.GetFileName(file));
-        //        if (!File.Exists(destFile))
-        //        {
-        //            File.Move(file, destFile);
-        //        }
-        //    }
-        //    //textBox5.Text = counter.ToString();
-        //}
+                foreach (string file in Directory.EnumerateFiles(MachinePath))
+                {
+                    string destFile = Path.Combine(LcoalPath, Path.GetFileName(file));
+                    if (!File.Exists(destFile))
+                    {
+                        File.Move(file, destFile);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Please check folder at " + LcoalPath + " OR " + MachinePath, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error, MessageBoxDefaultButton.Button1);
+
+                setDefaultTime();
+                return;
+            }
+        }
     }
 }
