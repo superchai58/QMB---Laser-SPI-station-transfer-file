@@ -24,12 +24,11 @@ D:\CHAI\Program\New Develop\Transaction file laser\WindowsFormsApplication3\Wind
 D:\CHAI\Program\New Develop\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
 D:\CHAI\Program\New Develop\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
 D:\CHAI\Program\New Develop\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
-D:\CHAI\Program\New Develop\Laser & SPI station transfer file\Laser station\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\SourceCode\PU4\Transaction file laser\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
